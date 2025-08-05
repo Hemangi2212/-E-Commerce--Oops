@@ -26,7 +26,11 @@ This is a beginner-friendly e-commerce web app that displays coffee products, al
 ecommerce-streamlit/
 │
 ├── app.py # Main Streamlit app
+
 ├── products.py # Product class and sample data
+
 ├── cart.py # Cart class to manage shopping cart
+
 ├── utils.py # Utility functions
+
 └── requirements.txt # Python package requirements
